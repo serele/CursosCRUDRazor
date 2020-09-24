@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1082
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursosCRUDRazor", "CursosCRUDRazor\CursosCRUDRazor.csproj", "{6EB7C8F8-B3F2-4D2F-BC4E-5EB145A5E92A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EB7C8F8-B3F2-4D2F-BC4E-5EB145A5E92A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EB7C8F8-B3F2-4D2F-BC4E-5EB145A5E92A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EB7C8F8-B3F2-4D2F-BC4E-5EB145A5E92A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EB7C8F8-B3F2-4D2F-BC4E-5EB145A5E92A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12AF5F82-1324-429F-9507-AA4A99853C14}
+	EndGlobalSection
+EndGlobal
